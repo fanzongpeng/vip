@@ -1,0 +1,9 @@
+ui_url:
+app_url:
+api_url:
+  test_api: https://qyapi.weixin.qq.com/cgi-bin
+  ust_api: 192.168.1.1:0000/cgi/bin
+mysql:
+  username:
+  password:
+  port:
