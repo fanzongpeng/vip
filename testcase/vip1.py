@@ -42,4 +42,5 @@ class TestVip1(object):
         r= requests.request(method,self.url+"/department/list",params=params).json()
         print(r)
     def test1(self):
-        pass
+       print("aahaha")
+       pass
