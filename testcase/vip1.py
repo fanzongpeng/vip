@@ -41,3 +41,5 @@ class TestVip1(object):
         params = {"access_token": access_token}
         r= requests.request(method,self.url+"/department/list",params=params).json()
         print(r)
+    def test1(self):
+        pass
